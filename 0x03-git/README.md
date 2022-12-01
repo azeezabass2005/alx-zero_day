@@ -1,1 +1,1 @@
-This is another readme for my new directory
+I just updated this readme file from github
